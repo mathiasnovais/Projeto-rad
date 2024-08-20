@@ -126,8 +126,3 @@ def deletar_aluno(i):
 		cur = con.cursor()
 		query = "DELETE FROM Alunos WHERE id=?"
 		cur.execute(query,i)
-<<<<<<< HEAD
-=======
-
-        
->>>>>>> 38458c378a9ee85d4b3664fcef9e521e6405bb31

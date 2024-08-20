@@ -807,9 +807,3 @@ app_salvar.place(x=236, y=30)
 
 alunos()
 janela.mainloop()
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 38458c378a9ee85d4b3664fcef9e521e6405bb31
