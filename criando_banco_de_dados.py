@@ -54,8 +54,3 @@ try:
                     )""")
         print("Tabela alunos criada com sucesso!")
 except sqlite3.Error as e:
-<<<<<<< HEAD
-    print("Erro ao criar a tabela alunos:", e)
-=======
-    print("Erro ao criar a tabela alunos:", e)
->>>>>>> 38458c378a9ee85d4b3664fcef9e521e6405bb31
